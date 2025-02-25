@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Python Project <a href="https://github.com/adambouzgan/Python-Project" target="_blank">Python Project</a>
+
 SQL Project <a href="https://github.com/adambouzgan/SQL-Project" target="_blank">SQL Project</a>
