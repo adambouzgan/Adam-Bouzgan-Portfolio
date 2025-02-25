@@ -15,8 +15,8 @@ Python Project <a href="https://github.com/adambouzgan/Python-Project" target="_
 
 SQL Project <a href="https://github.com/adambouzgan/SQL-Project" target="_blank">SQL Project</a>
 
-PowerBI Project <a href="https://github.com/adambouzgan/PowerBI-Project" target="_blank">SQL Project</a>
+PowerBI Project <a href="https://github.com/adambouzgan/PowerBI-Project" target="_blank">PowerBI Project</a>
 
-Tableau Project <a href="https://github.com/adambouzgan/Tableau-Project" target="_blank">SQL Project</a>
+Tableau Project <a href="https://github.com/adambouzgan/Tableau-Project" target="_blank">Tableau Project</a>
 
-Excel Project <a href="https://github.com/adambouzgan/Excel-Project" target="_blank">SQL Project</a>
+Excel Project <a href="https://github.com/adambouzgan/Excel-Project" target="_blank">Excel Project</a>
