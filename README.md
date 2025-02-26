@@ -2,7 +2,7 @@
 - 👀 I am looking to secure a role as a data analyst.
 - 🌍 I'm based in the London Area.
 - 🌱 I’m currently learning Python, SQL, Tableau and PowerBI.
-- 💞️ See my Porfolio at https://sites.google.com/view/adambouzgan
+- 💞️ See my Porfolio at [https://sites.google.com/view/adambouzgan](https://github.com/adambouzgan/Adam-Bouzgan-Portfolio)
 - 📫 How to reach me linkedin www.linkedin.com/in/adam-bouzgan-293301346
 - ⚡ Fun fact: I enjoy lifting heavy weights.
 
