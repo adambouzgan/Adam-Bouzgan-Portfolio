@@ -8,9 +8,7 @@
 
 * 🧠  I’m learning Data Analysis skills, including SQL, Python, Tableau, Power BI and Excel.
 
-* With a strong academic background in Mathematics from King’s College London and experience in data analysis, problem-solving, and business operations, I am eager to contribute my skills to your team.
-  
-* Studying Mathematics has sharpened my analytical and critical-thinking abilities. Many of my university modules involved group projects, which enhanced my teamwork and communication skills, as I regularly collaborated with peers to tackle complex problems. These experiences have equipped me with the ability to interpret data, derive insights, and present findings effectively.
+* With a strong academic background in Mathematics from King’s College London and experience in data analysis, problem-solving, and business operations, I am eager to contribute my skills to your team. Many of my university modules involved group projects, which enhanced my teamwork and communication skills, as I regularly collaborated with peers to tackle complex problems.
   
 * Beyond my academic studies, I have gained valuable real-world experience through running an independent business reselling luxury goods and services. Managing high sales volumes—up to 40–50 transactions per day—required me to liaise with manufacturers, oversee logistics, and ensure efficient product distribution.
   
