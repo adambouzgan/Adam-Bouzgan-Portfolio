@@ -2,13 +2,10 @@
 
 # **Adam Bouzgan**
 ## My Porfolio
-- 🌍 I'm based in the London Area.
-- ✉️  You can contact me on my [LinkedIn](https://www.linkedin.com/in/adam-bouzgan-293301346/) profile
-- 🌍 I'm based in the London Area.
-- 🌱 I’m currently learning Python, SQL, Tableau and PowerBI.
-- 💞️ See my Porfolio at [Google_sites](https://sites.google.com/view/adambouzgan?usp=sharing)
-- 📫 How to reach me linkedin [LinkedIn](https://www.linkedin.com/in/adam-bouzgan-293301346/)
-- ⚡ Fun fact: I enjoy lifting heavy weights.
+• 🌍 I'm based in the London Area.
+• ✉️  You can contact me on my [LinkedIn](https://www.linkedin.com/in/adam-bouzgan-293301346/) profile
+• 🧠  I’m learning Data Analysis skills, including SQL, Python, Tableau, Power BI and Excel.
+
 
 
 
