@@ -1,6 +1,6 @@
 <img width="156" alt="Screenshot 2025-02-26 at 14 47 14" src="https://github.com/user-attachments/assets/99a32113-c56b-4be5-9b00-e8412f3edf75" />
 
-My Porfolio  
+# **Bold and Big Title** 
 - 👋 Hi, I’m Adam Bouzgan
 - 👀 I am looking to secure a role as a data analyst.
 - 🌍 I'm based in the London Area.
