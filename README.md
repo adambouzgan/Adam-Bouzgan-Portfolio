@@ -20,6 +20,8 @@
   
 * I am particularly drawn to the data analytics industry because it aligns with my analytical mindset, problem-solving abilities, and passion for working with data. Given my experience in data interpretation, financial modelling, and business operations, I believe I am well-suited for this an opportnity in this field.
 
+# Skills
+<img width="241" alt="Screenshot 2025-02-27 at 14 02 00" src="https://github.com/user-attachments/assets/a82911c7-b9db-4ccf-a6c3-52e8891a2697" />
 
 
 
@@ -41,3 +43,5 @@ You can click the Preview link to take a look at your changes.
 # <a href="https://adambouzgan.github.io/Tableau-Project/" target="_blank">Tableau Project</a>
 
 # <a href="https://adambouzgan.github.io/Excel-Project/" target="_blank">Excel Project</a>
+
+# <a href="https://sites.google.com/view/adambouzgan?usp=sharing" target="_blank">Porfolio on Google Sites</a>
