@@ -8,7 +8,7 @@
 - 📫 How to reach me linkedin [LinkedIn](https://www.linkedin.com/in/adam-bouzgan-293301346/)
 - ⚡ Fun fact: I enjoy lifting heavy weights.
 
-![image](https://github.com/user-attachments/assets/41601678-b730-46f3-84bd-7975ef257492)
+
 
 <!---
 adambouzgan/adambouzgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
