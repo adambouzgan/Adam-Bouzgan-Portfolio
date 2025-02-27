@@ -2,8 +2,8 @@
 
 # **Adam Bouzgan**
 ## My Porfolio
-- 👋 Hi, I’m Adam Bouzgan
-- 👀 I am looking to secure a role as a data analyst.
+- 🌍 I'm based in the London Area.
+- ✉️  You can contact me on my [LinkedIn](https://www.linkedin.com/in/adam-bouzgan-293301346/) profile
 - 🌍 I'm based in the London Area.
 - 🌱 I’m currently learning Python, SQL, Tableau and PowerBI.
 - 💞️ See my Porfolio at [Google_sites](https://sites.google.com/view/adambouzgan?usp=sharing)
