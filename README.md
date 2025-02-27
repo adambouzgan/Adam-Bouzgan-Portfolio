@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 Python Project <a href="https://adambouzgan.github.io/Python-Project/" target="_blank">Python Project</a>
 
-SQL Project <a href="https://github.com/adambouzgan/SQL-Project" target="_blank">SQL Project</a>
+SQL Project <a href="https://adambouzgan.github.io/SQL-Project/" target="_blank">SQL Project</a>
 
 PowerBI Project <a href="https://github.com/adambouzgan/PowerBI-Project" target="_blank">PowerBI Project</a>
 
