@@ -5,7 +5,7 @@
 - 🌍 I'm based in the London Area.
 - 🌱 I’m currently learning Python, SQL, Tableau and PowerBI.
 - 💞️ See my Porfolio at [Google_sites](https://sites.google.com/view/adambouzgan?usp=sharing)
-- 📫 How to reach me linkedin [www.linkedin.com/in/adam-bouzgan-293301346](https://www.linkedin.com/in/adam-bouzgan-293301346/)
+- 📫 How to reach me linkedin [LinkedIn](https://www.linkedin.com/in/adam-bouzgan-293301346/)
 - ⚡ Fun fact: I enjoy lifting heavy weights.
 
 <!---
