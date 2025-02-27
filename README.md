@@ -14,7 +14,7 @@
   
 * Additionally, I completed a virtual investment banking internship, where I developed skills in company valuation, financial modelling, and data analysis. I conducted a comparative analysis of firms in the beer and spirits industry, building a discounted cash flow (DCF) model in Excel to assess potential mergers and acquisitions.
   
-* Coming to the end of a 8-week intensive Data Technician Skills Bootcamp with Just IT Training. Looking to consolidate my skills further to become a data analyst. Working on several projects to develop my online GitHub portfolio whereby I can demonstrate my skills in Excel, SQL, Python, PowerBi and Tableau.
+* Coming to the end of a 8-week intensive Data Technician Skills Bootcamp with Just IT Training. Looking to consolidate my skills further to become a data analyst. Working on several projects to develop my online GitHub portfolio whereby I can demonstrate my skills in Excel, SQL, Python, PowerBI and Tableau.
   
 * I am particularly drawn to the data analytics industry because it aligns with my analytical mindset, problem-solving abilities, and passion for working with data. Given my experience in data interpretation, financial modelling, and business operations, I believe I am well-suited for this an opportnity in this field.
 
