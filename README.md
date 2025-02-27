@@ -1,6 +1,6 @@
 <img width="156" alt="Screenshot 2025-02-26 at 14 47 14" src="https://github.com/user-attachments/assets/99a32113-c56b-4be5-9b00-e8412f3edf75" />
 
-# **Bold and Big Title** 
+# **My Porfolio** 
 - 👋 Hi, I’m Adam Bouzgan
 - 👀 I am looking to secure a role as a data analyst.
 - 🌍 I'm based in the London Area.
@@ -14,7 +14,7 @@
 <!---
 adambouzgan/adambouzgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Find below different analysis projects I have worked on during my Data Technician Skills Bootcamp:
+---># **Find below different analysis projects I have worked on during my Data Technician Skills Bootcamp:**
 
 <a href="https://adambouzgan.github.io/Python-Project/" target="_blank">Python Project</a>
 
