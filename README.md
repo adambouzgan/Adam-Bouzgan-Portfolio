@@ -3,7 +3,7 @@
 # **Adam Bouzgan**
 ## My Porfolio
 • 🌍 I'm based in the London Area.
-• ✉️  You can contact me on my [LinkedIn](https://www.linkedin.com/in/adam-bouzgan-293301346/) profile
+• ✉️  You can contact me on my [LinkedIn](https://www.linkedin.com/in/adam-bouzgan-293301346/) profile.
 • 🧠  I’m learning Data Analysis skills, including SQL, Python, Tableau, Power BI and Excel.
 
 
