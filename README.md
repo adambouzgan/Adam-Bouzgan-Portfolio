@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://adambouzgan.github.io/Tableau-Project/" target="_blank">Tableau Project</a>
 
-<a href="https://github.com/adambouzgan/Excel-Project" target="_blank">Excel Project</a>
+<a href="https://adambouzgan.github.io/Excel-Project/" target="_blank">Excel Project</a>
