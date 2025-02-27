@@ -16,7 +16,8 @@
   
 * Coming to the end of a 8-week intensive Data Technician Skills Bootcamp with Just IT Training. Looking to consolidate my skills further to become a data analyst. Working on several projects to develop my online GitHub portfolio whereby I can demonstrate my skills in Excel, SQL, Python, PowerBi and Tableau.
   
-* I am particularly drawn to this opportunity because it aligns with my analytical mindset, problem-solving abilities, and passion for working with data. Given my experience in data interpretation, financial modelling, and business operations, I believe I am well-suited for this role.
+* I am particularly drawn to the data analytics industry because it aligns with my analytical mindset, problem-solving abilities, and passion for working with data. Given my experience in data interpretation, financial modelling, and business operations, I believe I am well-suited for this an opportnity in this field.
+
 
 
 
