@@ -15,12 +15,12 @@ adambouzgan/adambouzgan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Python Project <a href="https://adambouzgan.github.io/Python-Project/" target="_blank">Python Project</a>
+<a href="https://adambouzgan.github.io/Python-Project/" target="_blank">Python Project</a>
 
-SQL Project <a href="https://adambouzgan.github.io/SQL-Project/" target="_blank">SQL Project</a>
+<a href="https://adambouzgan.github.io/SQL-Project/" target="_blank">SQL Project</a>
 
-PowerBI Project <a href="https://adambouzgan.github.io/PowerBI-Project/" target="_blank">PowerBI Project</a>
+<a href="https://adambouzgan.github.io/PowerBI-Project/" target="_blank">PowerBI Project</a>
 
-Tableau Project <a href="https://github.com/adambouzgan/Tableau-Project" target="_blank">Tableau Project</a>
+<a href="https://github.com/adambouzgan/Tableau-Project" target="_blank">Tableau Project</a>
 
-Excel Project <a href="https://github.com/adambouzgan/Excel-Project" target="_blank">Excel Project</a>
+<a href="https://github.com/adambouzgan/Excel-Project" target="_blank">Excel Project</a>
