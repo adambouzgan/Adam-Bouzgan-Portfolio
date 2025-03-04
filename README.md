@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 ## <a href="https://sites.google.com/view/adambouzgan?usp=sharing" target="_blank">Porfolio on Google Sites</a>
 
-## <a href="https://sites.google.com/view/adambouzgan?usp=sharing" target="_blank">Reflective Practice</a>
+## <a href="https://adambouzgan.github.io/Reflective-Practise/" target="_blank">Reflective Practice</a>
 
 ## <a href="https://adambouzgan.github.io/About-me/" target="_blank">About me</a>
 
